@@ -1,3 +1,4 @@
+// Add two number;
 class Test{
   int add(int a, int b){
     int c = a + b;
