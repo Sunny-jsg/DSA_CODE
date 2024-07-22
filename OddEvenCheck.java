@@ -1,3 +1,4 @@
+// Check given number is Even or Odd;
 import java.util.Scanner;
 class Driver{
   static String check_evenorodd(int n){
