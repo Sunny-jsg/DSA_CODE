@@ -1,0 +1,33 @@
+package sunny.jsg;
+
+public class Demo {
+	Person m1(int id) {
+		Person p = new Person();
+		if (id == 101) {
+			p.id = 101;
+			p.name = "Raju";
+			p.age  = 30;
+		} else if (id == 102) {
+			p.id = 102;
+			p.name = "Rani";
+			p.age = 32;
+		}
+		return p;
+	}
+
+	public static void main(String[] args) {
+		Demo  d = new Demo();
+		Person p = d.m1(101);
+		System.out.println(p.id + "--" + p.name + "--" + p.age);
+	}
+
+class Person {
+	int id ;
+	  String name;
+	  int age;
+
+}
+
+	
+
+

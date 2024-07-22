@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ai.in&apos; to &apos;sunny.jsg&apos;&#x0D;&#x0A;- Original project: &apos;Dsa_code&apos;&#x0D;&#x0A;- Original element: &apos;Dsa_code/src/com.ai.in&apos;&#x0D;&#x0A;- Renamed element: &apos;Dsa_code/src/sunny.jsg&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ai.in&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.ai.in" name="sunny.jsg" qualified="false" references="true" stamp="1721367483956" textual="false" version="1.0"/>
+</session>
