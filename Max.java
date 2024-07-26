@@ -1,3 +1,4 @@
+// find maximum number between two number;
 import java.util.Scanner;
 class Sunny{
   static int max_version(int a ,int b){

@@ -1,3 +1,4 @@
+// sum of natural number;
 import java.util.Scanner;
 class Demo{
   static int sumofn(int n){
