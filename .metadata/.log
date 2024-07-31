@@ -1661,3 +1661,520 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-07-27 12:59:53.582 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-27 12:59:56.093
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-27 12:59:56.355
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-27 13:00:13.306
+!MESSAGE Logback config file: D:\DSA Code\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-07-27 13:00:15.852
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-07-27 13:00:15.852
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-27 13:00:18.103
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\techs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 13:00:18.181
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.eclemma.ui.CoverageView" id and the "Coverage" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 13:00:18.183
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.builds.navigator.builds" id and the "Builds" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 13:00:18.186
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.commons.repositories.ui.navigator.Repositories" id and the "Team Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 13:00:18.188
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.reviews.Explorer" id and the "Review" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 13:00:18.189
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.tasks" id and the "Task List" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 13:00:18.190
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.repositories" id and the "Task Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 13:00:18.191
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.oomph.p2.ui.RepositoryExplorer" id and the "Repository Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-27 13:00:57.173
+!MESSAGE Classpath changed for project: Recursion
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-27 13:01:41.710
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/DSA Code/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1722065501709
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-27 13:01:41.712
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-27 13:01:41.733
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4120
+!SESSION 2024-07-27 17:11:29.274 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=20.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data D:\DSA Code -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-07-27 17:11:32.705
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2024-07-27 17:11:34.944
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-07-27 17:11:34.944
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-27 17:11:38.483
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\techs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.549
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerContainersView" id and the "Docker Containers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.550
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerImagesView" id and the "Docker Images" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.551
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerExplorerView" id and the "Docker Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.552
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.linuxtools.docker.ui.dockerImageHierarchyView" id and the "Docker Image Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.553
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.operations.typeHierarchy.TypeHierarchyView" id and the "Type Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.555
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.ui.languageServersView" id and the "Language Servers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.556
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.api.tools.ui.views.apitooling.views.apitoolingview" id and the "API Tools" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.557
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.runtime.RegistryBrowser" id and the "Plug-in Registry" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.558
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.PluginsView" id and the "Plug-ins" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.558
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.FeaturesView" id and the "Features" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.559
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.DependenciesView" id and the "Plug-in Dependencies" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.560
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.TargetPlatformState" id and the "Target Platform State" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.560
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.ImageBrowserView" id and the "Plug-in Image Browser" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.561
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.internet.monitor.view" id and the "TCP/IP Monitor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.562
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.server.ui.ServersView" id and the "Servers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.564
+!MESSAGE Removing PartDescriptorImpl with the "org.springframework.ide.eclipse.boot.dash.views.BootDashView" id and the "Boot Dashboard" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-27 17:11:38.564
+!MESSAGE Removing PartDescriptorImpl with the "org.springframework.tooling.ls.eclipse.gotosymbol.view.SpringSymbolsView" id and the "Spring Symbols" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2024-07-30 12:22:07.776 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-30 12:22:10.947
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 12:22:11.222
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 12:22:17.090
+!MESSAGE Logback config file: D:\DSA Code\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-07-30 12:22:19.320
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-07-30 12:22:19.320
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-30 12:22:22.264
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/DSA Code/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1722322342262
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 12:22:22.265
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-30 12:22:22.302
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 12900
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-30 12:22:23.707
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\techs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-30 12:22:23.822
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.eclemma.ui.CoverageView" id and the "Coverage" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-30 12:22:23.824
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.builds.navigator.builds" id and the "Builds" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-30 12:22:23.826
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.commons.repositories.ui.navigator.Repositories" id and the "Team Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-30 12:22:23.827
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.reviews.Explorer" id and the "Review" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-30 12:22:23.829
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.tasks" id and the "Task List" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-30 12:22:23.831
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.repositories" id and the "Task Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-07-30 12:22:23.832
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.oomph.p2.ui.RepositoryExplorer" id and the "Repository Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY Activator 4 0 2024-07-30 12:27:33.909
+!MESSAGE NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+	at org.springframework.ide.eclipse.boot.dash.model.LocalBootDashModel$2.bundleChanged(LocalBootDashModel.java:157)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:949)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+!SESSION 2024-07-30 16:49:23.438 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-30 16:49:26.045
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 16:49:26.404
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 16:49:30.997
+!MESSAGE Logback config file: D:\DSA Code\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-07-30 16:49:33.102
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-07-30 16:49:33.102
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-30 16:49:36.190
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/DSA Code/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1722338376189
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 16:49:36.191
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-30 16:49:36.214
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 9924
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-30 16:49:37.559
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\techs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-07-31 12:39:26.973 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-31 12:39:30.752
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+!SESSION 2024-07-31 12:39:27.019 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-31 12:39:30.752
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 12:39:31.207
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 12:39:31.207
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 12:39:38.059
+!MESSAGE Logback config file: D:\DSA Code\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-07-31 12:39:40.447
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-07-31 12:39:40.447
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-31 12:39:43.250
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/DSA Code/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1722409783249
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-31 12:39:43.251
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-31 12:39:43.275
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 22400
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-31 12:39:43.998
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\techs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 4 0 2024-07-31 12:43:08.374
+!MESSAGE NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+	at org.springframework.ide.eclipse.boot.dash.model.LocalBootDashModel$2.bundleChanged(LocalBootDashModel.java:157)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:949)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+!SESSION 2024-07-31 14:50:23.613 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-31 14:50:25.949
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 14:50:26.190
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 14:50:30.662
+!MESSAGE Logback config file: D:\DSA Code\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-07-31 14:50:32.848
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-07-31 14:50:32.848
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-31 14:50:35.399
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\techs\Downloads\sts-4.21.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/DSA Code/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1722417635399
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-31 14:50:35.401
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-31 14:50:35.419
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 6316
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-31 14:50:36.312
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\techs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-07-31 14:51:45.120
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
