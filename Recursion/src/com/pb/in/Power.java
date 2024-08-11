@@ -26,3 +26,10 @@ class John {
 	}
 
 }
+/* Output 
+ * ENTER a VALUE::
+2
+ENTER b VALUE::
+3
+8
+*/

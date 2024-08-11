@@ -21,3 +21,12 @@ class Rohit {
 			return isprime(n, --i);
 	}
 }
+/* Output 
+Enter n Value:
+12
+false
+Enter n Value:
+7
+true
+
+*/

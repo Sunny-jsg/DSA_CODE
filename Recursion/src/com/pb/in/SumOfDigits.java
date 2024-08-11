@@ -19,3 +19,8 @@ class Virat {
 			return (n % 10) + sumofdigits(n / 10);
 	}
 }
+/* Output
+Enter n Value::
+124636
+22
+*/

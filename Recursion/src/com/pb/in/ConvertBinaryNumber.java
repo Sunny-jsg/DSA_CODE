@@ -20,3 +20,8 @@ class Rahul {
 			return (n % 2 + 10 * convert(n / 2));
 	}
 }
+/* output
+ * Enter n Value::
+15
+1111
+*/

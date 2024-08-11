@@ -22,3 +22,8 @@ class Sonu {
 			return fib(n - 1) + fib(n - 2);
 	}
 }
+/* Output
+Enter n Value::
+4
+0,1,1,2,3,
+*/

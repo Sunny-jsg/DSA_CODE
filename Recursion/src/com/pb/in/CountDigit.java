@@ -26,3 +26,8 @@ class Rathi {
 	}
 
 }
+/* Output
+Enter n Value:
+10002
+5
+*/

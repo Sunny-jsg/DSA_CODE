@@ -23,3 +23,10 @@ class Dhoni {
 			return 0;
 	}
 }
+/* Output
+Enter a Value:
+255
+Enter b Value:
+232
+59160
+*/

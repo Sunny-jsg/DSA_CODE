@@ -20,3 +20,8 @@ class Smith {
 			return n * fact(n - 1);
 	}
 }
+/* Output
+ENTER n VALUE::
+5
+120
+*/

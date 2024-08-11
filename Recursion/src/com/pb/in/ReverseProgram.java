@@ -20,3 +20,8 @@ class Victor {
 			return ((n % 10) * (int) Math.pow(10, length - 1)) + rev(n / 10, --length);
 	}
 }
+/* Output
+Enter n Value::
+10023736
+63732001
+*/
