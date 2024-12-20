@@ -102,3 +102,11 @@ class LL {
 		System.out.println("Null");
 	}
 }
+/* Output 
+111 => 222 => 333 => 444 => 555 => Null
+222 => 333 => 444 => 555 => Null
+333 => 444 => 555 => Null
+333 => 444 => Null
+333 => Null
+List is Empty
+*/
