@@ -9,7 +9,7 @@ public class Test1 {
 		list.addlast(444);
 		list.addlast(555);
 		list.printlist();
-		list.deletefirst();
+		/*list.deletefirst();
 		list.printlist();
 		list.deletefirst();
 		list.printlist();
@@ -18,7 +18,7 @@ public class Test1 {
 		list.deletelast();
 		list.printlist();
 		list.deletelast();
-		list.printlist();
+		list.printlist();*/
 	}
 
 }
