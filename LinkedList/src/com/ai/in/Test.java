@@ -1,8 +1,6 @@
 package com.ai.in;
 
-import com.ai.in.LL.Node;
-
-public class Test5 {
+public class Test {
 	public static void main(String[] args) {
 		SLL5 list1 = new SLL5();
 		list1.addFirst(444);
