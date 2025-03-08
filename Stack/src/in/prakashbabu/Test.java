@@ -19,6 +19,7 @@ public class Test {
 	}
 
 }
+////implementation of stack using arrays
 
 class StackArray {
 	int size = 5;
