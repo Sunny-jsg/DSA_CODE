@@ -4,6 +4,8 @@
     <fullyQualifiedTypeName name="com.ai.in.LL.Node"/>
     <fullyQualifiedTypeName name="in.prakashbabu.StackArray"/>
     <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+    <fullyQualifiedTypeName name="in.test.Demo"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
